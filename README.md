@@ -26,6 +26,14 @@ If you wanted to use a video as input and look at it frame-by-frame, check out t
 https://github.com/koflerm/tensorflow-video-classifier
 
 </br>
+
+## google_images_download
+pip install google_images_download
+
+googleimagesdownload --keywords "Polar bears" --limit 20
+
+googleimagesdownload --keywords "Bill Gates" --limit 200 --chromedriver /usr/bin/chromedriver
+
 ## License
 MIT License
 
